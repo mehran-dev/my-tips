@@ -308,3 +308,86 @@ usage
 
 
 ```
+
+```javascript
+
+ container/presentational component
+
+
+
+
+ const [state , setState] = useSate()
+ <Container>
+  <Presentation1  state={stateOrPartOfState} >
+  <Presentation2  state={stateOrPartOfState} >
+  <Presentation3  state={stateOrPartOfState} >
+  <Presentation4  state={stateOrPartOfState} >
+
+ </Container>
+
+
+
+
+// or you can do  this :
+
+<ResourceLoader>
+  <UserInfo>
+</ResourceLoader>
+
+
+```
+
+### functional programming
+
+- controlled component
+- function component
+- hoc
+- recursive component
+- partially applied component
+- component composition
+
+```javascript
+// recursive pattern
+ const listMenu ={
+  a:{
+    b:c
+  },
+  x:y,
+  z:{
+    w:
+    {
+      p:
+      {oops:Foo:
+        {Bar:Baz}
+      }
+      }
+  }
+ }
+//TODO Add recursive function to render the listMenu
+
+
+
+// CompositionalPattern
+
+// 1) Button ---> <Button></Button>
+
+// 2) DangerButton ----> <Button className="red"></Button >
+
+
+// Partially Applied
+// creation
+  hoc => partiallyApply (Comp , partialProps)=>{
+  return props=>{
+
+    <Component {...partialProps }{...props} >
+  }
+ }
+
+
+// usage
+
+  const DangerButton = partiallyApply(Button , {bg:red , size:"large"})
+
+```
+
+linkedin Shaun Wassell
