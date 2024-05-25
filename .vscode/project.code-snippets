@@ -1,0 +1,6 @@
+{
+  "code-block": {
+    "prefix": "jsmd",
+    "body": "```javascript \n ${1} \n  ```"
+  }
+}

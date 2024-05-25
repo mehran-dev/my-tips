@@ -1,0 +1,3 @@
+https://www.patterns.dev/react/
+https://refactoring.guru/design-patterns/memento
+
