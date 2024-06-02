@@ -95,3 +95,14 @@ isr - uses revalidate getStaticProps
 fallback-true vs block
 
 getStaticPath is required for ssg
+
+### parallel route
+
+@users
+@articles
+
+they can have their own loading and articles
+
+s3 liara is better than cloudinary
+
+reacttraining.com
