@@ -27,7 +27,7 @@ VUE-X [video 55 ] stephen grider
 
 
 =================================================================
-svg sara drasner :[css animation part: 10 ]
+svg sarah drasner :[GSAP part: 1 ]
 =================================================================
 
 
