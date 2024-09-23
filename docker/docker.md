@@ -31,3 +31,13 @@ docker-compose build
 docker-compose up --build -d
 
 # docker wait for
+
+# docker save and communicate with sftp
+
+```
+// save
+    docker save  -o "local-address"
+// load
+    docker load
+
+```
