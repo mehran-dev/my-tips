@@ -90,5 +90,10 @@ https://dev.to/vinothmohan/git-an-overview-at-high-level-2ckk
 
 [git config --global credential.helper store](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git?page=1&tab=scoredesc#tab-top)
 
-git remote set-url origin NEW_URL
+#### set
+
 git remote set-url origin https://github.com/your-username/your-repo.git
+
+#### Add
+
+git remote set-url **--add** origin https://github.com/your-username/your-repo.git
