@@ -1,6 +1,6 @@
 # my personal learnings tips
 
-**anything I learn I put it here for future refrence for my self**
+**anything I learn I put it here for future reference for my self**
 
 ```javascript
 // 💙💙💙💙💙💙💙💙
