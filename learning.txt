@@ -7,7 +7,7 @@ LPIC jady => [part 13] [min:0]
 =================================================================
 classbon admin-panel  [finished] =>[source code review]
 classbon NEXTJS [video-124]
-typescript : part 16
+typescript : part 24  
 =================================================================
 
 

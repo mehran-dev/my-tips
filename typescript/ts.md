@@ -15,4 +15,16 @@ const str = new String("Hello");
 redundency => افزونگی
 
 fetch type input =>> REquestInfo
+##### eslint => rule no-shadow
+
+##### widening & narrowing
+
+```javascript
+let obj ={
+title:"javascript",
+status :"published" as const
+}
+
+
+
 ```
